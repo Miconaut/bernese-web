@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/52233388/uncaught-typeerror-three-gltfloader-is-not-a-constructor
+https://discourse.threejs.org/t/three-gltfloader-is-not-a-constructor/46359/8
+https://discourse.threejs.org/t/three-gltfloader-is-not-a-constructor/25681/5
+https://jsfiddle.net/y9x8bq4o/3/
+https://stackoverflow.com/questions/20495302/transparent-background-with-three-js
+https://stackoverflow.com/questions/29884485/threejs-canvas-size-based-on-container
+https://stackblitz.com/edit/vue-hatnqg?file=src%2FApp.vue
+
+https://media.istockphoto.com/id/1344600453/vector/cute-cartoon-bernese-mountain-dog-face.jpg?s=612x612&w=0&k=20&c=8LC0-N04kkoaj78nbbec4izFyx-HUZgDrTGIG_0OHSg=
+
+Paleta barev: https://coolors.co/fdc921-99d9ea-6798c0-fffdf7-281f00-fdd85d
+
+Foky použité na webu jsou všechny mé (kromě loga).
+
+Fonty byly použity ze stránky Google Fonts.
+Galerie byla vytvořena pomocí pluginu PhotoSwipe (https://photoswipe.com/).
+Texty byly vygenerovány přes ChatGPT.
